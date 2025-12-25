@@ -91,4 +91,4 @@ Ce projet n’est pas conçu pour un usage industriel.
 ## Lancement du script
 
 ```bash
-python main.py
+python test.py
