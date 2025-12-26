@@ -1,0 +1,9 @@
+pymongo
+certifi
+networkx
+python-louvain
+vaderSentiment
+streamlit
+pandas
+matplotlib
+playwright
