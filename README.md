@@ -100,8 +100,9 @@ Lancer le tableau de bord
 ```bash
 streamlit run visualization/dashboard.py
 ```
+```bash
 python -m streamlit run visualization/dashboard.py
-
+```
 
 ## Remarques
 - Le tableau de bord ne relance pas le scraping Reddit.
