@@ -110,7 +110,7 @@ streamlit run visualization/dashboard.py
 
 Ce projet a été réalisé en collaboration par :
 
-**Imane MAAZAOUI** – Ingénieure Big Data & Business Intelligence  
+**Imane MAAZAOUI** – Ingénieure Data Science & Business Intelligence  
   *Scraping des données Reddit, nettoyage et structuration des données, stockage NoSQL dans MongoDB, préparation des données pour les analyses et cohérence du modèle de données.*
 
 **Mouad SEBHAOUI** – Ingénieur Intelligence Artificielle & Machine Learning  
